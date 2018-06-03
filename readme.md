@@ -11,16 +11,16 @@ This project demonstrates two things:
 
 # Folders
 <code>**root**
-	+	**cpp/\***
+	**cpp/\***	
 &nbsp;	/ ** **_workthrough example from MSDN_** ** /
-	+	**cpp2/**
-&nbsp;	|	+ **CSGPPainter.cpp**
-&nbsp;	|	+ **libGUIPainterDefine.h**
-&nbsp;	|	+ **libGUIPainterImpl.cpp**
-	+  **cs/** 
+**cpp2/**
+&nbsp;	|	 **CSGPPainter.cpp**
+&nbsp;	|	 **libGUIPainterDefine.h**
+&nbsp;	|	 **libGUIPainterImpl.cpp**
+**cs/** 
 &nbsp;	/** **_csharp implementation_** **/
-&nbsp;	| + **MainHelloWorld.cs**
-&nbsp;	| + **MainHelloWorld.xaml.cs**
+&nbsp;	| **MainHelloWorld.cs**
+&nbsp;  | **MainHelloWorld.xaml.cs**
 </code>
 
 # Workflow
