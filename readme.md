@@ -10,7 +10,7 @@ This project demonstrates two things:
 - WPF 
 
 # Folders
-**root**
+<code>**root**
 	+	**cpp/\***
 &nbsp;	/ ** **_workthrough example from MSDN_** ** /
 	+	**cpp2/**
@@ -21,6 +21,7 @@ This project demonstrates two things:
 &nbsp;	/** **_csharp implementation_** **/
 &nbsp;	| + **MainHelloWorld.cs**
 &nbsp;	| + **MainHelloWorld.xaml.cs**
+</code>
 
 # Workflow
 1. Create a DLL Project on VS2017
